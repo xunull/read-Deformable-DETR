@@ -1,0 +1,26 @@
+Epoch: [0]  [   10/59143]  eta: 9:34:40  lr: 0.000200
+class_error: 90.00  grad_norm: 41.74
+loss: 33.5524 (36.3797)
+
+loss_ce: 2.2401 (2.1532)  loss_bbox: 1.5374 (2.2030)  loss_giou: 1.6750 (1.7080)
+
+loss_ce_0: 1.9076 (1.9309)  loss_bbox_0: 1.6035 (2.2634)  loss_giou_0: 1.7236 (1.7157)
+loss_ce_1: 2.1312 (2.0902)  loss_bbox_1: 1.5563 (2.2306)  loss_giou_1: 1.7239 (1.7159)
+loss_ce_2: 2.1203 (2.1900)  loss_bbox_2: 1.5398 (2.2166)  loss_giou_2: 1.7182 (1.7129)
+loss_ce_3: 2.1388 (2.1947)  loss_bbox_3: 1.5277 (2.2118)  loss_giou_3: 1.6705 (1.7030)
+loss_ce_4: 2.1332 (2.2296)  loss_bbox_4: 1.5457 (2.2012)  loss_giou_4: 1.6984 (1.7091)
+
+loss_ce_unscaled: 1.1201 (1.0766)  class_error_unscaled: 95.6522 (86.8775)  loss_bbox_unscaled: 0.3075 (0.4406)  loss_giou_unscaled: 0.8375 (0.8540)
+cardinality_error_unscaled: 292.0000 (292.7273)
+loss_ce_0_unscaled: 0.9538 (0.9655)  loss_bbox_0_unscaled: 0.3207 (0.4527)  loss_giou_0_unscaled: 0.8618 (0.8578)
+cardinality_error_0_unscaled: 291.0000 (292.0909)
+loss_ce_1_unscaled: 1.0656 (1.0451)  loss_bbox_1_unscaled: 0.3113 (0.4461)  loss_giou_1_unscaled: 0.8620 (0.8579)
+cardinality_error_1_unscaled: 292.0000 (292.7273)
+loss_ce_2_unscaled: 1.0602 (1.0950)  loss_bbox_2_unscaled: 0.3080 (0.4433)  loss_giou_2_unscaled: 0.8591 (0.8564)
+cardinality_error_2_unscaled: 292.0000 (292.7273)
+loss_ce_3_unscaled: 1.0694 (1.0973)  loss_bbox_3_unscaled: 0.3055 (0.4424)  loss_giou_3_unscaled: 0.8353 (0.8515)
+cardinality_error_3_unscaled: 292.0000 (292.7273)
+loss_ce_4_unscaled: 1.0666 (1.1148)  loss_bbox_4_unscaled: 0.3091 (0.4402)  loss_giou_4_unscaled: 0.8492 (0.8546)
+cardinality_error_4_unscaled: 292.0000 (292.7273)
+
+time: 0.5831  data: 0.0000  max mem: 7263
